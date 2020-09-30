@@ -22,6 +22,7 @@ Segunda parte do curso Desenvolvimento Avançado em Angular, disponibilizado por
 Este projeto foi desenvolvido com a seguinte tecnologia:
 
 -  [Angular](https://angular.io/)
+-  [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
 
 ## <p id='howToUse'>💻 Como usar </p>
 Para clonar e executar este aplicativo, na linha de comando:
