@@ -3,15 +3,16 @@
 </h1>
 
 <p align="center">
-  <a href='#arquitetura'>Arquitetura de Software </a>|
-  <a href='#temas'>Temas abordados </a>|
+  <a href='#architecture'>RXJS - Observables </a>|
+  <a href='#themes'>Temas abordados </a>|
   <a href='#tecnologies'>Tecnologia </a>|
+  <a href='#howToUse'>Como usar </a>|
 </p>
 
-## <p id='arquitetura'>📚 D.A.A </p>
+## <p id='architecture'>📚 RXJS - Observables </p>
 Segunda parte do curso Desenvolvimento Avançado em Angular, disponibilizado por (https://desenvolvedor.io)
 
-## <p id='temas'> ⚙ Temas abordados </p> 
+## <p id='themes'> ⚙ Temas abordados </p> 
 1. Promises e Observables.
 2. Minha primeira Observable.
 3. Entendendo os Observes.
@@ -22,7 +23,7 @@ Este projeto foi desenvolvido com a seguinte tecnologia:
 
 -  [Angular](https://angular.io/)
 
-## <p id='como'>💻 Como usar </p>
+## <p id='howToUse'>💻 Como usar </p>
 Para clonar e executar este aplicativo, na linha de comando:
 
 ```bash
