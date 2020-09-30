@@ -36,6 +36,6 @@ $ cd AngularRxjs
 # Instalar dependências
 $ npm i
 
-# Iniciar Expo
+# Iniciar aplicação
 $ npm start
 ```
