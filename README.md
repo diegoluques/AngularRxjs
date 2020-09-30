@@ -7,6 +7,7 @@
   <a href='#themes'>Temas abordados </a>|
   <a href='#tecnologies'>Tecnologia </a>|
   <a href='#howToUse'>Como usar </a>|
+  <a href='#updateVersions'>Atualizar versões </a>
 </p>
 
 ## <p id='architecture'>📚 RXJS - Observables </p>
@@ -40,3 +41,7 @@ $ npm i
 # Iniciar aplicação
 $ npm start
 ```
+
+## <p id='updateVersions'>💻 Atualizar versões </p>
+
+-  [npm-check-updates ](https://www.npmjs.com/package/npm-check-updates)
